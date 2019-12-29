@@ -1,0 +1,38 @@
+
+h1.h1{
+    color: blueviolet;
+    font-size: 34px;
+}
+
+h3{
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    color: blue;
+    font-size: 34px;
+}
+
+h2{
+    color: blue;
+}
+
+p.c{
+    color: violet;
+}
+
+h4{
+    color: chartreuse;
+}
+#a{
+    color: brown;
+}
+li>a{
+    color: chartreuse
+}
+p b{
+    color: chocolate;
+}
+h5+p{
+    color: cornflowerblue;
+}
+h6~p{
+    color: coral;
+}
